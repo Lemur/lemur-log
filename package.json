@@ -1,0 +1,22 @@
+{
+  "name": "lemur-log",
+  "version": "0.1.0",
+  "description": "Log module for LeanCloud",
+  "main": "log.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log",
+    "leancloud"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@git.coding.net:callmewhy/lemur-log.git"
+  },
+  "author": "callmewhy",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^2.1.1"
+  }
+}
